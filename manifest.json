@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "Kimundi",
+  "repo": "scoped-threadpool-rs",
+  "versions": [
+    {
+      "commit": "d997df877268c254a49013f5c7ed005d04756a40",
+      "parsed_at": "2026-11-21T22:41:53.228253+00:00",
+      "tag": "v0.1.7",
+      "filetree": "filetree/d997df877268c254a49013f5c7ed005d04756a40.nq.gz",
+      "blobs": [
+        "blob/3146fc82ba73966668ef7fba094c1e0430a320a8.nq.gz",
+        "blob/9ac8f2a848c012744f820955538bda676cdb6906.nq.gz",
+        "blob/a9d37c560c6ab8d4afbf47eda643e8c42e857716.nq.gz",
+        "blob/dff72d1e43251989d52b6bec53c8588f7f4df47b.nq.gz",
+        "blob/1e9cfe782873eac61fdeab49414a6ee76daead24.nq.gz",
+        "blob/b71b630dd9319fd878cf3e9c1177c313e28dc515.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
