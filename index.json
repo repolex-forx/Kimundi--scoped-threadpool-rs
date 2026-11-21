@@ -1,0 +1,11 @@
+{
+  "org": "Kimundi",
+  "repo": "scoped-threadpool-rs",
+  "versions": [
+    {
+      "commit": "d997df877268c254a49013f5c7ed005d04756a40",
+      "tag": "v0.1.7",
+      "parsed_at": "2026-11-21T22:53:18.705426+00:00"
+    }
+  ]
+}
