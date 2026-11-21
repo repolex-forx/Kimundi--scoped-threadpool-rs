@@ -30,7 +30,9 @@
           "githubUrl": "https://github.com/rust-lang-nursery/lazy-static.rs",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/d997df877268c254a49013f5c7ed005d04756a40/chunk-001.nq.gz",
+      "dep": "dep/d997df877268c254a49013f5c7ed005d04756a40.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
